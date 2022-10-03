@@ -36,5 +36,6 @@ _avec retour à la ligne_\
 | git ls-files | | Liste les fichiers suivis par Git |
 | git rm | --cached | | Retirer un ou plusieurs fichiers de l'historique de suivi de Git |
 | git restore | --staged | | Unstage un ou plusieurs fichiers |
-| git branch | -M | Créer ou renommer une branche de travail |
 | git merge |  | Permet de fusionner l'historique Git de deux branches |
+| git branch | -M, -d, -a (--all) | Créer ou renommer une branche de travail |
+|git checkout | -b | Se positionner sur une branche de travail |
