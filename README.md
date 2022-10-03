@@ -41,3 +41,4 @@ _avec retour à la ligne_\
 |git checkout | -b | Se positionner sur une branche de travail |
 
 modif pour exo
+deuxieme modification
