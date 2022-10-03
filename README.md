@@ -37,3 +37,4 @@ _avec retour à la ligne_\
 | git rm | --cached | | Retirer un ou plusieurs fichiers de l'historique de suivi de Git |
 | git restore | --staged | | Unstage un ou plusieurs fichiers |
 | git branch | -M | Créer ou renommer une branche de travail |
+| git merge |  | Permet de fusionner l'historique Git de deux branches |
