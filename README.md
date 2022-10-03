@@ -40,6 +40,6 @@ _avec retour à la ligne_\
 | git branch | -M, -d, -a (--all) | Créer ou renommer une branche de travail |
 |git checkout | -b | Se positionner sur une branche de travail |
 
-modif pour exo
-deuxieme modification
+modif pour exo\
+deuxieme modification\
 modification troisieme etape
